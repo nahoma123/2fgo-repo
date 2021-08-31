@@ -1,0 +1,7 @@
+{
+    "go.inferGopath": false,
+    "files.exclude": {
+        "platform/routers/httprouter": false
+    },
+    "workspace.isHidden": false
+}
